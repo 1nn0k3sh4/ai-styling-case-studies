@@ -13,4 +13,4 @@ See real examples of my styling work (before/after, AI or Human-generated mood b
 **Request:** *"I love asian style, that is popular now. I need girly outfit I can actually wear to meet with my friends in a cozy place."*
 [https://github.com/1nn0k3sh4/ai-styling-case-studies/blob/main/case-002-asian-feminine/]
 
-![AI-generated concept](/case-002-asian-feminine/ai-output-girl.jpg)
+![AI-generated concept](/case-002-asian-feminine/ai-outfit-girl.jpg)
