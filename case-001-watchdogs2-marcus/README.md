@@ -10,7 +10,7 @@ Real wardrobe transformations. AI-generated concepts → real-life outfits.
 
 ### 🧠 Step 1: AI Prototype
 
-I fed the reference (screenshots of Marcus) into my custom AI model + Midjourney. The goal was to extract key elements:
+I fed the reference (screenshots of Marcus) into my custom AI model + GPT. The goal was to extract key elements:
 
 - Layered hoodie + jacket
 - Fitted dark jeans / cargo pants
